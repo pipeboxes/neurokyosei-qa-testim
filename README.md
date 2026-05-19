@@ -91,7 +91,6 @@ The project includes:
 Evidence:
 
 - jira/jira-regression-validation-done.png
-- jira/jira-regression-validation-details.png
 
 ---
 
