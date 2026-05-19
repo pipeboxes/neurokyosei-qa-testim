@@ -28,4 +28,4 @@ PASS
 13 seconds
 
 ## Evidence
-../../screenshots/testim/smoke-test-homepage-pass.png
+![Smoke Test Pass](../../screenshots/testim/smoke-test-homepage-pass.png)
