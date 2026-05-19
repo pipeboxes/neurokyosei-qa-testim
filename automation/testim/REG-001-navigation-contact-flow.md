@@ -34,4 +34,4 @@ PASS
 ![Regression Test Pass](../../screenshots/testim/regression-navigation-contact-pass.png)
 
 ### Test Flow
-![Test Flow](../../screenshots/testim/test-flow.png)
+![Test Flow](../../screenshots/testim/test-completed-successfully.png)
